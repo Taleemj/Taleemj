@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I+am+Taleem+,+web+developer.;" /></a>
 </p>
 <p>
-    <a href="https://taleem-mankuer.web.app"><strong>Explore portfolio. »</strong></a>
+    <a href="https://taleemmankuer.vercel.app/"><strong>Explore portfolio. »</strong></a>
 </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="210" align="right"/>
 
